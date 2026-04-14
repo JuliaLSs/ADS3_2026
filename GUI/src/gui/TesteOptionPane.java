@@ -54,8 +54,6 @@ public class TesteOptionPane {
 		}
 		
 		
-		JOptionPane.showMessageDialog(null, "Eu quero dormir");
-		
 	}
 
 }
